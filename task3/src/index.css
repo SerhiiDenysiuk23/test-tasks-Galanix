@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.search-form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  padding: 2em;
+}
+
+.reset-btn{
+  background: red;
+}
+.send-btn{
+  background: blue;
+}
